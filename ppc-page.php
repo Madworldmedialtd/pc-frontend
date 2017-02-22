@@ -48,7 +48,7 @@
     </div>
 
     <div class="visible-xs">
-        <div class="col-xs-12">&nbsp;</div>
+        <div class="col-xs-12"></div>
         <div class="col-xs-6 text-center">
             <a href="#" class="btn btn-md btn-default">Learn More <i class="fa fa-chevron-down" aria-hidden="true"></i></a>
         </div>
@@ -88,7 +88,7 @@
     </div>
 
     <div class="visible-xs">
-        <div class="col-xs-12">&nbsp;</div>
+        <div class="col-xs-12"></div>
         <div class="col-xs-6 text-center">
             <a href="#" class="btn btn-md btn-default">Learn More <i class="fa fa-chevron-down" aria-hidden="true"></i></a>
         </div>
@@ -128,7 +128,7 @@
     </div>
 
     <div class="visible-xs">
-        <div class="col-xs-12">&nbsp;</div>
+        <div class="col-xs-12"></div>
         <div class="col-xs-6 text-center">
             <a href="#" class="btn btn-md btn-default">Learn More <i class="fa fa-chevron-down" aria-hidden="true"></i></a>
         </div>
@@ -168,7 +168,7 @@
     </div>
 
     <div class="visible-xs">
-        <div class="col-xs-12">&nbsp;</div>
+        <div class="col-xs-12"></div>
         <div class="col-xs-6 text-center">
             <a href="#" class="btn btn-md btn-default">Learn More <i class="fa fa-chevron-down" aria-hidden="true"></i></a>
         </div>
