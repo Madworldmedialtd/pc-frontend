@@ -52,6 +52,9 @@ body {
     color: #00B0C4;
     font-size: 14px;
 }
+.normal{
+    font-weight: normal;
+}
 .more-info a:link { color: #00B0C4; text-decoration: none }
 .more-info a:visited { color: #70DB93; }
 .more-info a:hover { color: #2599b2; }
