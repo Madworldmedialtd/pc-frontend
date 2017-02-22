@@ -1,0 +1,43 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.redirect-block {
+    min-height: 300px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    margin-top: 30px;
+    color: #FFF;
+    padding: 45px 15px 0 15px;
+    text-align: center;
+    float: none;
+    display: block;
+}
+
+.progress {
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+}
+
+@media (max-width:767px) {
+    h1 {
+        margin-top: 0;
+        font-size: 30px;
+    }
+    .redirect-block {
+        margin-top: 5px;
+    }
+}
+
+@media (max-width:1199px) {
+    .progress {
+        margin-top: 25px;
+    }
+}

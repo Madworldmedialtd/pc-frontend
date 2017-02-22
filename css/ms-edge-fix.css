@@ -1,0 +1,7 @@
+@supports (-ms-accelerator:true) {
+    .guides-page .container-info ul li a span.right {
+        right: -1px !important;
+        bottom: -1px !important;
+        top: -1px !important;
+    }
+}
